@@ -24,7 +24,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/"
+    "registry": "https://registry.npmmirror.com/",
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -35,5 +36,8 @@
   },
   "bugs": {
     "url": "https://github.com/yixianzi/vue-pro-components/issues"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.41"
   }
 }
