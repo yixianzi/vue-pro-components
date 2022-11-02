@@ -24,7 +24,6 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/",
     "access": "public"
   },
   "repository": {
@@ -40,5 +39,5 @@
   "peerDependencies": {
     "vue": "^3.2.41"
   },
-  "gitHead": "91b5d1494ba9843869b01b012aaaf451b4c45258"
+  "gitHead": "9ba3f73ccfb4ca365b4f41539d6a0e91058688e8"
 }
