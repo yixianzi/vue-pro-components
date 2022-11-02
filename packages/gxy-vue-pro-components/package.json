@@ -1,0 +1,39 @@
+{
+  "name": "gxy-vue-pro-components",
+  "version": "0.0.0",
+  "description": "pro components based on vue3",
+  "keywords": [
+    "components",
+    "vue3",
+    "vite",
+    "typescript",
+    "unplugin",
+    "on",
+    "demand",
+    "pro"
+  ],
+  "author": "guoxianyi <272541876@qq.com>",
+  "homepage": "https://github.com/yixianzi/vue-pro-components#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yixianzi/vue-pro-components.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/gxy-vue-pro-components.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/yixianzi/vue-pro-components/issues"
+  }
+}

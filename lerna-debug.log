@@ -1,0 +1,18 @@
+0 silly argv {
+0 silly argv   _: [ 'create' ],
+0 silly argv   lernaVersion: '6.0.1',
+0 silly argv   '$0': 'C:\\Users\\27254\\AppData\\Roaming\\npm-cache\\_npx\\24784\\node_modules\\lerna\\cli.js',
+0 silly argv   name: 'vue-pro-components'
+0 silly argv }
+1 notice cli v6.0.1
+2 verbose rootPath F:\studyProject\组件化\vue-pro-components
+3 error Error: canceled
+3 error     at Interface.<anonymous> (C:\Users\27254\AppData\Roaming\npm-cache\_npx\24784\node_modules\lerna\node_modules\read\lib\read.js:66:13)
+3 error     at Interface.emit (events.js:400:28)
+3 error     at Interface._ttyWrite (readline.js:1001:16)
+3 error     at ReadStream.onkeypress (readline.js:265:10)
+3 error     at ReadStream.emit (events.js:400:28)
+3 error     at emitKeys (internal/readline/utils.js:358:14)
+3 error     at emitKeys.next (<anonymous>)
+3 error     at ReadStream.onData (readline.js:1270:36)
+3 error     at ReadStream.emit (events.js:400:28)
